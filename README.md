@@ -1,7 +1,7 @@
 # Isaac_Android_Project
 
 ## 저작권   
-이 작업은 Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 라이센스에 따라 라이센스가 부여된다.
+이 작업은 Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 라이센스에 따라 라이센스가 부여된다.   
 CC BY-NC-SA 3.0에 대한 자세한 내용은 여기를 참고하세요. https://creativecommons.org/licenses/by-nc-sa/3.0/   
 
 ## 팀원   
